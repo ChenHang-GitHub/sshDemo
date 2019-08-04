@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib11">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/ssh/我的SSH框架实例/mywork3/WebRoot/WEB-INF/lib" />
+      <root url="file://$USER_HOME$/Desktop/ssh/jstl_standard" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Desktop/ssh/jstl_standard" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/ssh/我的SSH框架实例/mywork3/WebRoot/WEB-INF/lib" recursive="false" />
+  </library>
+</component>
